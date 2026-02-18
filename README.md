@@ -64,21 +64,26 @@ Focused on responsive design and UI structure.
 
 ## 📚 Current Focus
 
-```javascript
 const namith = {
     learning: [
-        "Advanced Web Application Security",
-        "Network Security Fundamentals",
-        "Penetration Testing Methodology"
+        "OWASP Top 10 Vulnerabilities",
+        "Advanced Web Application Exploitation",
+        "Network Traffic Analysis",
+        "Linux for Security Operations"
     ],
-    workingOn: [
-        "CTF Challenges",
-        "Security-Focused Projects",
-        "Certification Preparation"
+    building: [
+        "Hands-on VAPT Practice Labs",
+        "Security Testing Reports",
+        "Realistic CTF Writeups"
+    ],
+    preparingFor: [
+        "Security Analyst Roles",
+        "Offensive Security Certifications",
+        "Bug Bounty Participation"
     ],
     interests: [
-        "Bug Bounty Hunting",
-        "Reverse Engineering",
-        "Cryptography"
+        "Web Application Security",
+        "Reverse Engineering Basics",
+        "Cryptographic Concepts"
     ]
 };
